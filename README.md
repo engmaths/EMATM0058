@@ -15,7 +15,6 @@ Email Arthur to book a slot.
 
 | Date | Speaker 1 | Speaker 2 |
 | --- | --- | --- |
-| Thu 24-Sep | **1300**:   | **1330**:  |
 | Mon 28-Sep | **0900**:  | **0930**: Carlos Cifuentes (online) |
 | Thu 01-Oct | **1300**: Giacinto Barresi  | **1330**: Hermes Gadelha |
 | Mon 05-Oct | **0900**:  | **0930**:  |
