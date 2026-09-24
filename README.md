@@ -22,7 +22,7 @@ Email Arthur to book a slot.
 | Mon 12-Oct | **0900**:  | **0930**:  |
 | Thu 15-Oct | **1300**:   | **1330**:  |
 | Mon 19-Oct | **0900**:  | **0930**:  |
-| Thu 22-Oct | **1300**:   | **1330**:  |
+| Thu 22-Oct | **1300**: Efi Psomopoulou | **1330**:  |
 | No talks in week beginning 26-Oct	
 | Mon 02-Nov | **0900**:  | **0930**:  |
 | Thu 05-Nov | **1300**: Marianthe Leon  | **1330**: Carwyn Ward |
