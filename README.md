@@ -20,7 +20,7 @@ Email Arthur to book a slot.
 | Mon 05-Oct | **0900**: Chapa Sirithunge | **0930**: Cathy Faulkner / Arthur Richards |
 | Thu 08-Oct | **1300**: Edmund Hunt  | **1330**: Iwona Gajda |
 | Mon 12-Oct | **0900**:  | **0930**:  |
-| Thu 15-Oct | **1300**:   | **1330**:  |
+| Thu 15-Oct | **1300**: Emanuele Pulvirente | **1330**:  |
 | Mon 19-Oct | **0900**:  | **0930**:  |
 | Thu 22-Oct | **1300**: Efi Psomopoulou | **1330**:  |
 | No talks in week beginning 26-Oct	
