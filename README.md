@@ -18,7 +18,7 @@ Email Arthur to book a slot.
 | Mon 28-Sep | **0900**:  | **0930**: Carlos Cifuentes (online) |
 | Thu 01-Oct | **1300**: Giacinto Barresi  | **1330**: Hermes Gadelha |
 | Mon 05-Oct | **0900**: Chapa Sirithunge | **0930**: Cathy Faulkner / Arthur Richards |
-| Thu 08-Oct | **1300**: Edmund Hunt  | **1330**:  |
+| Thu 08-Oct | **1300**: Edmund Hunt  | **1330**: Iwona Gajda |
 | Mon 12-Oct | **0900**:  | **0930**:  |
 | Thu 15-Oct | **1300**:   | **1330**:  |
 | Mon 19-Oct | **0900**:  | **0930**:  |
