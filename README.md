@@ -21,7 +21,7 @@ Email Arthur to book a slot.
 | Thu 08-Oct | **1300**: Edmund Hunt  | **1330**: Iwona Gajda |
 | Mon 12-Oct | **0900**:  | **0930**:  |
 | Thu 15-Oct | **1300**: Emanuele Pulvirente | **1330**: Hemma Philamore |
-| Mon 19-Oct | **0900**:  | **0930**:  |
+| Mon 19-Oct | **0900**:  | **0930**: Paul Bremner (online) |
 | Thu 22-Oct | **1300**: Efi Psomopoulou | **1330**: Andrew Conn |
 | No talks in week beginning 26-Oct	
 | Mon 02-Nov | **0900**:  | **0930**: Marcela Munera (online) |
