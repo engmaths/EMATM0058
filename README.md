@@ -26,7 +26,7 @@ Email Arthur to book a slot.
 | No talks in week beginning 26-Oct	
 | Mon 02-Nov | **0900**:  | **0930**: Marcela Munera (online) |
 | Thu 05-Nov | **1300**: Marianthe Leon  | **1330**: Carwyn Ward |
-| Mon 09-Nov | **0900**: Ben Ward-Cherrier | **0930**:  |
+| Mon 09-Nov | **0900**: Ben Ward-Cherrier | **0930**: Emanuel Nunez Sardinha |
 | Thu 12-Nov | **1300**: Kai-Fung Chu  | **1330**: Amina Hamoud (possibly online) |
 | Mon 16-Nov | **0900**:  | **0930**: Nancy Zook |
 | Thu 19-Nov | **1300**:   | **1330**:  |
