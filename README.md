@@ -32,5 +32,5 @@ Email Arthur to book a slot.
 | Thu 19-Nov | **1100**:   | **1130**:  |
 | Thu 19-Nov | **1300**:   | **1330**:  |
 | Mon 23-Nov | **0900**:  | **0930**: Arturo Castillo Ugalde |
-| Thu 26-Nov | **1300**:   | **1330**:  |
+| Thu 26-Nov | **1300**: Chanelle Lee | **1330**: Martin Garrad |
 | Thu 03-Dec | **1300**: Sabine Hauert | **1330**: Bahadir Kocer |
