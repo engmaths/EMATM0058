@@ -27,7 +27,7 @@ Email Arthur to book a slot.
 | Mon 02-Nov | **0900**:  | **0930**: Marcela Munera (online) |
 | Thu 05-Nov | **1300**: Marianthe Leon  | **1330**: Carwyn Ward |
 | Mon 09-Nov | **0900**: Ben Ward-Cherrier | **0930**: Emanuel Nunez Sardinha |
-| Thu 12-Nov | **1300**: Kai-Fung Chu  | **1330**: Amina Hamoud (possibly online) |
+| Thu 12-Nov | **1300**: Kai-Fung Chu  | **1330**: Amina Hamoud (online) |
 | Mon 16-Nov | **0900**:  | **0930**: Nancy Zook |
 | Thu 19-Nov | **1100**:   | **1130**:  |
 | Thu 19-Nov | **1300**: Rui Wu | **1330**:  |
