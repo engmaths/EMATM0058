@@ -28,7 +28,7 @@ Email Arthur to book a slot.
 | Thu 05-Nov | **1300**: Marianthe Leon  | **1330**: Carwyn Ward |
 | Mon 09-Nov | **0900**: Ben Ward-Cherrier | **0930**: Emanuel Nunez Sardinha |
 | Thu 12-Nov | **1300**: Kai-Fung Chu  | **1330**: Amina Hamoud (online) |
-| Mon 16-Nov | **0900**:  | **0930**: Nancy Zook |
+| Mon 16-Nov | **0900**: Richard Suphapol Diteesawat | **0930**: Nancy Zook |
 | Thu 19-Nov | **1100**:   | **1130**:  |
 | Thu 19-Nov | **1300**: Rui Wu | **1330**:  |
 | Mon 23-Nov | **0900**: Alperen Kenan | **0930**: Arturo Castillo Ugalde |
