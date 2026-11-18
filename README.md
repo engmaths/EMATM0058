@@ -29,8 +29,7 @@ Email Arthur to book a slot.
 | Mon 09-Nov | **0900**: Ben Ward-Cherrier | **0930**: Emanuel Nunez Sardinha |
 | Thu 12-Nov | **1300**: Kai-Fung Chu  | **1330**: Amina Hamoud (online) |
 | Mon 16-Nov | **0900**: Richard Suphapol Diteesawat | **0930**: Nancy Zook |
-| Thu 19-Nov | **1100**:   | **1130**:  |
-| Thu 19-Nov | **1300**: Rui Wu | **1330**:  |
+| Thu 19-Nov | **1300**: Rui Wu | **1330**: Baiyang Shi (online) |
 | Mon 23-Nov | **0900**: Alperen Kenan | **0930**: Arturo Castillo Ugalde |
 | Thu 26-Nov | **1300**: Chanelle Lee | **1330**: Martin Garrad |
 | Thu 03-Dec | **1300**: Sabine Hauert | **1330**: Bahadir Kocer |
